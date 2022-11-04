@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_898924_v2_cad_ex.loaner_user" name="x_898924_v2_cad_ex.loaner_user">2ec21ec447471110b16fa368436d433f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>bushra.akhtar</sys_created_by>
+        <sys_created_on>2022-11-04 05:43:55</sys_created_on>
+        <sys_id>a2c21ec447471110b16fa368436d4341</sys_id>
+        <sys_name>2ec21ec447471110b16fa368436d433f</sys_name>
+        <sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a2c21ec447471110b16fa368436d4341</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

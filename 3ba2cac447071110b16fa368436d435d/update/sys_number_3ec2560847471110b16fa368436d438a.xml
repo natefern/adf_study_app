@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_898924_v2_cad_ex_loaner">x_898924_v2_cad_ex_loaner</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>LOA</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>bushra.akhtar</sys_created_by>
+        <sys_created_on>2022-11-04 05:43:57</sys_created_on>
+        <sys_id>3ec2560847471110b16fa368436d438a</sys_id>
+        <sys_name>LOA</sys_name>
+        <sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope>
+        <sys_update_name>sys_number_3ec2560847471110b16fa368436d438a</sys_update_name>
+    </sys_number>
+</record_update>
