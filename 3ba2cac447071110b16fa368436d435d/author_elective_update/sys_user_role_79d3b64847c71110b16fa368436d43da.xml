@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_898924_v2_cad_ex.change_loaner_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>change_loaner_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 08:08:20</sys_created_on>
+        <sys_id>79d3b64847c71110b16fa368436d43da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_898924_v2_cad_ex.change_loaner_user</sys_name>
+        <sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope>
+        <sys_update_name>sys_user_role_79d3b64847c71110b16fa368436d43da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 08:08:20</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</application>
+        <file_path/>
+        <instance_id>40c2b9fddb31cd101b813feb68961981</instance_id>
+        <instance_name>dev125984</instance_name>
+        <name>sys_user_role_79d3b64847c71110b16fa368436d43da</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_898924_v2_cad_ex.change_loaner_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>change_loaner_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-04 08:08:20</sys_created_on><sys_id>79d3b64847c71110b16fa368436d43da</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_898924_v2_cad_ex.change_loaner_user</sys_name><sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package><sys_policy/><sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope><sys_update_name>sys_user_role_79d3b64847c71110b16fa368436d43da</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-04 08:08:20</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>969813182</payload_hash>
+        <record_name>x_898924_v2_cad_ex.change_loaner_user</record_name>
+        <reverted_from/>
+        <source>1cc95e8c47471110b16fa368436d4364</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 08:08:20</sys_created_on>
+        <sys_id>b5d3b64847c71110b16fa368436d43dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18441af05500000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 08:08:20</sys_updated_on>
+        <type>Role</type>
+        <update_guid>fdd3b6486fc7111024e496b4fda3bfdc</update_guid>
+        <update_guid_history>fdd3b6486fc7111024e496b4fda3bfdc:969813182</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_898924_v2_cad_ex.change_loaner_user">d9077e4c47c71110b16fa368436d43ab</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 08:22:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>0a2c794bfdf241648cd10afbbe13d664</sys_id>
+        <sys_metadata>79d3b64847c71110b16fa368436d43da</sys_metadata>
+        <sys_name>x_898924_v2_cad_ex.change_loaner_user</sys_name>
+        <sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope>
+        <sys_scope_delete display_value="">57a072c0272b492abf59df88edce5c44</sys_scope_delete>
+        <sys_update_name>sys_user_role_79d3b64847c71110b16fa368436d43da</sys_update_name>
+        <sys_update_version display_value="sys_user_role_79d3b64847c71110b16fa368436d43da">b5d3b64847c71110b16fa368436d43dd</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

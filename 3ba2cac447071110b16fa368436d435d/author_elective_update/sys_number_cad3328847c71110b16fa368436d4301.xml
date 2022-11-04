@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_898924_v2_cad_ex_change_loaner">x_898924_v2_cad_ex_change_loaner</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>CHA</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 08:08:20</sys_created_on>
+        <sys_id>cad3328847c71110b16fa368436d4301</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CHA</sys_name>
+        <sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope>
+        <sys_update_name>sys_number_cad3328847c71110b16fa368436d4301</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 08:08:20</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</application>
+        <file_path/>
+        <instance_id>40c2b9fddb31cd101b813feb68961981</instance_id>
+        <instance_name>dev125984</instance_name>
+        <name>sys_number_cad3328847c71110b16fa368436d4301</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_898924_v2_cad_ex_change_loaner">x_898924_v2_cad_ex_change_loaner</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>CHA</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-04 08:08:20</sys_created_on><sys_id>cad3328847c71110b16fa368436d4301</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CHA</sys_name><sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package><sys_policy/><sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope><sys_update_name>sys_number_cad3328847c71110b16fa368436d4301</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-04 08:08:20</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>-505041883</payload_hash>
+        <record_name>CHA</record_name>
+        <reverted_from/>
+        <source>1cc95e8c47471110b16fa368436d4364</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 08:08:20</sys_created_on>
+        <sys_id>8ed3328847c71110b16fa368436d4315</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18441af08f50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 08:08:20</sys_updated_on>
+        <type>Number</type>
+        <update_guid>c6d332888cc71110ca6470c9c116a415</update_guid>
+        <update_guid_history>c6d332888cc71110ca6470c9c116a415:-505041883</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 08:22:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>0684195e3abe497380ae8cc31d387879</sys_id>
+        <sys_metadata>cad3328847c71110b16fa368436d4301</sys_metadata>
+        <sys_name>CHA</sys_name>
+        <sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package>
+        <sys_parent display_value="">74a3ba4847c71110b16fa368436d4392</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope>
+        <sys_scope_delete display_value="">57a072c0272b492abf59df88edce5c44</sys_scope_delete>
+        <sys_update_name>sys_number_cad3328847c71110b16fa368436d4301</sys_update_name>
+        <sys_update_version display_value="sys_number_cad3328847c71110b16fa368436d4301">8ed3328847c71110b16fa368436d4315</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

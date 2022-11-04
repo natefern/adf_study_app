@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="DELETE">
+        <active>true</active>
+        <conditions table="x_898924_v2_cad_ex_items">descriptionISNOTEMPTY^EQ<item endquery="false" field="description" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>false</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+	g_form.clearMessages();
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+	g_form.addInfoMessage('Reminder: Please describe your item in detail');
+}]]></script_true>
+        <set_values/>
+        <short_description>Provide reminder after user enters description</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 09:11:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>20a10b08470b1110b16fa368436d4313</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Provide reminder after user enters description</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope>
+        <sys_update_name>sys_ui_policy_20a10b08470b1110b16fa368436d4313</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 09:13:25</sys_updated_on>
+        <table>x_898924_v2_cad_ex_items</table>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_ui_policy>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</application>
+        <file_path/>
+        <instance_id>40c2b9fddb31cd101b813feb68961981</instance_id>
+        <instance_name>dev125984</instance_name>
+        <name>sys_ui_policy_20a10b08470b1110b16fa368436d4313</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;&lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;conditions table="x_898924_v2_cad_ex_items"&gt;descriptionISNOTEMPTY^EQ&lt;item endquery="false" field="description" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/conditions&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;false&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;true&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+	g_form.clearMessages();
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+	g_form.addInfoMessage('Reminder: Please describe your item in detail');
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;Provide reminder after user enters description&lt;/short_description&gt;&lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-04 09:11:02&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;20a10b08470b1110b16fa368436d4313&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Provide reminder after user enters description&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex"&gt;3ba2cac447071110b16fa368436d435d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="v2 cad exam"&gt;3ba2cac447071110b16fa368436d435d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_policy_20a10b08470b1110b16fa368436d4313&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-04 09:13:25&lt;/sys_updated_on&gt;&lt;table&gt;x_898924_v2_cad_ex_items&lt;/table&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_ui_policy&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1033224507</payload_hash>
+        <record_name>Provide reminder after user enters description</record_name>
+        <reverted_from/>
+        <source>1cc95e8c47471110b16fa368436d4364</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 09:13:25</sys_created_on>
+        <sys_id>abb20348470b1110b16fa368436d433f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18441ea9e8a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 09:13:25</sys_updated_on>
+        <type>UI Policy</type>
+        <update_guid>a3b203487d0b1110187320f2b4e52c3f</update_guid>
+        <update_guid_history>a3b203487d0b1110187320f2b4e52c3f:1033224507,42924bc46e0b11109b134cf6acbf8214:-1683759771,ec324bc4da0b11108d8751c6a74f9e20:-434120588</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 09:48:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy">sys_ui_policy</sys_db_object>
+        <sys_id>055f583a1b954ec1826ee0bbeb894349</sys_id>
+        <sys_metadata>20a10b08470b1110b16fa368436d4313</sys_metadata>
+        <sys_name>Provide reminder after user enters description</sys_name>
+        <sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package>
+        <sys_parent display_value="">6963ba0847c71110b16fa368436d43b2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope>
+        <sys_scope_delete display_value="">57a072c0272b492abf59df88edce5c44</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_20a10b08470b1110b16fa368436d4313</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_20a10b08470b1110b16fa368436d4313">abb20348470b1110b16fa368436d433f</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

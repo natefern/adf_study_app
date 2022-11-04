@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_898924_v2_cad_ex_loaner_items</description>
+        <name>x_898924_v2_cad_ex_loaner_items</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 07:51:07</sys_created_on>
+        <sys_id>35efee0447c71110b16fa368436d43d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_898924_v2_cad_ex_loaner_items</sys_name>
+        <sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope>
+        <sys_update_name>sys_security_acl_35efee0447c71110b16fa368436d43d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 07:51:07</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</application>
+        <file_path/>
+        <instance_id>40c2b9fddb31cd101b813feb68961981</instance_id>
+        <instance_name>dev125984</instance_name>
+        <name>sys_security_acl_35efee0447c71110b16fa368436d43d4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_898924_v2_cad_ex_loaner_items</description><name>x_898924_v2_cad_ex_loaner_items</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-04 07:51:07</sys_created_on><sys_id>35efee0447c71110b16fa368436d43d4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_898924_v2_cad_ex_loaner_items</sys_name><sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package><sys_policy/><sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope><sys_update_name>sys_security_acl_35efee0447c71110b16fa368436d43d4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-04 07:51:07</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>1168021391</payload_hash>
+        <record_name>x_898924_v2_cad_ex_loaner_items</record_name>
+        <reverted_from/>
+        <source>1cc95e8c47471110b16fa368436d4364</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 07:51:07</sys_created_on>
+        <sys_id>35efee0447c71110b16fa368436d43d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184419f427c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 07:51:07</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>7defee04bec71110859b280e53d34ed5</update_guid>
+        <update_guid_history>7defee04bec71110859b280e53d34ed5:1168021391</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 08:06:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>1954f0cace034358a2366cd4555b7310</sys_id>
+        <sys_metadata>35efee0447c71110b16fa368436d43d4</sys_metadata>
+        <sys_name>x_898924_v2_cad_ex_loaner_items</sys_name>
+        <sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package>
+        <sys_parent display_value="">b1efee0447c71110b16fa368436d43de</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope>
+        <sys_scope_delete display_value="">57a072c0272b492abf59df88edce5c44</sys_scope_delete>
+        <sys_update_name>sys_security_acl_35efee0447c71110b16fa368436d43d4</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_35efee0447c71110b16fa368436d43d4">35efee0447c71110b16fa368436d43d6</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Loaner Requests</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Loaner Requests</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">a67056e4f90211108c8bd16244dfe708</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 08:00:21</sys_created_on>
+        <sys_id>490276c447c71110b16fa368436d437f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Requests</sys_name>
+        <sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope>
+        <sys_update_name>sys_wizard_answer_490276c447c71110b16fa368436d437f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 08:00:21</sys_updated_on>
+        <table/>
+        <target_url>x_898924_v2_cad_ex_loaner_requests.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</application>
+        <file_path/>
+        <instance_id>40c2b9fddb31cd101b813feb68961981</instance_id>
+        <instance_name>dev125984</instance_name>
+        <name>sys_wizard_answer_490276c447c71110b16fa368436d437f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Loaner Requests</answer><button_label/><dependent_value/><element/><name>Loaner Requests</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">a67056e4f90211108c8bd16244dfe708</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-04 08:00:21</sys_created_on><sys_id>490276c447c71110b16fa368436d437f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Loaner Requests</sys_name><sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package><sys_policy/><sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope><sys_update_name>sys_wizard_answer_490276c447c71110b16fa368436d437f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-04 08:00:21</sys_updated_on><table/><target_url>x_898924_v2_cad_ex_loaner_requests.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-501919978</payload_hash>
+        <record_name>Loaner Requests</record_name>
+        <reverted_from/>
+        <source>430962e247221110b16fa368436d43fb</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-10-18 05:14:35</sys_created_on>
+        <sys_id>aa82720847c71110b16fa368436d43be</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>183e983d6780000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>6a82720898c71110e26d0172a0ab1dbe</update_guid>
+        <update_guid_history>6a82720898c71110e26d0172a0ab1dbe:-501919978</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 08:02:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>0003ab3720934e7e8005e382d70f85b9</sys_id>
+        <sys_metadata>490276c447c71110b16fa368436d437f</sys_metadata>
+        <sys_name>Loaner Requests</sys_name>
+        <sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package>
+        <sys_parent display_value="Task">a67056e4f90211108c8bd16244dfe708</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope>
+        <sys_scope_delete display_value="">57a072c0272b492abf59df88edce5c44</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_490276c447c71110b16fa368436d437f</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_490276c447c71110b16fa368436d437f">aa82720847c71110b16fa368436d43be</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

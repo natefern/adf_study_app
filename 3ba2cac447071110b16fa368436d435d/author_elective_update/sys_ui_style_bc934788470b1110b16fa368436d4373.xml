@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="DELETE">
+        <alt/>
+        <element>description</element>
+        <name>x_898924_v2_cad_ex_items</name>
+        <style>border: 1px solid #FF0000;&#13;
+color:yellow;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 09:23:04</sys_created_on>
+        <sys_id>bc934788470b1110b16fa368436d4373</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>x_898924_v2_cad_ex_items</sys_name>
+        <sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope>
+        <sys_update_name>sys_ui_style_bc934788470b1110b16fa368436d4373</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 09:38:58</sys_updated_on>
+        <value/>
+    </sys_ui_style>
+    <sys_translated_text action="DELETE" query="documentkey=bc934788470b1110b16fa368436d4373"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</application>
+        <file_path/>
+        <instance_id>40c2b9fddb31cd101b813feb68961981</instance_id>
+        <instance_name>dev125984</instance_name>
+        <name>sys_ui_style_bc934788470b1110b16fa368436d4373</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style"><sys_ui_style action="INSERT_OR_UPDATE"><alt/><element>description</element><name>x_898924_v2_cad_ex_items</name><style>border: 1px solid #FF0000;&#13;
+color:yellow;</style><sys_class_name>sys_ui_style</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-04 09:23:04</sys_created_on><sys_id>bc934788470b1110b16fa368436d4373</sys_id><sys_mod_count>14</sys_mod_count><sys_name>x_898924_v2_cad_ex_items</sys_name><sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package><sys_policy/><sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope><sys_update_name>sys_ui_style_bc934788470b1110b16fa368436d4373</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-04 09:38:58</sys_updated_on><value/></sys_ui_style><sys_translated_text action="delete_multiple" query="documentkey=bc934788470b1110b16fa368436d4373"/></record_update>]]></payload>
+        <payload_hash>1812379847</payload_hash>
+        <record_name>x_898924_v2_cad_ex_items</record_name>
+        <reverted_from/>
+        <source>1cc95e8c47471110b16fa368436d4364</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 09:38:58</sys_created_on>
+        <sys_id>399807cc470b1110b16fa368436d43ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184420202d30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 09:38:58</sys_updated_on>
+        <type>Style</type>
+        <update_guid>319807ccd10b111079be90d91c2d6aef</update_guid>
+        <update_guid_history>319807ccd10b111079be90d91c2d6aef:1812379847,6e88c3cca00b11100a4c905b73899c0a:-406434299,297883cc810b1110460aced752395c8d:-1543632614,6317cb4c380b1110ff0df15be37bf392:-2098414779,a316c70cff0b1110a09c425b5ff94292:-255830671,40160b0cef0b1110f51dfb494d1cbeaf:125772264,c8e58fc8410b11102ecbf5733fe2e967:380216481,94d5430c410b111011b3dea16a7180cd:-117239436,9ab58fc80c0b1110731aa26d33150662:1142348737,ce85c30c180b1110603bb72b0d009907:1715664296,e575cfc8270b11100fd58508b010712c:48837158,bc65c3881f0b11105e7bee4ebc992621:2144224781,ce55cfc8140b11103a969eb7a9844825:-1866384405,6b354bc8e10b1110a70fe94597049d3a:-11552693,fcf48f88200b11109d41ea7db158a670:1299420542</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 09:48:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_style">sys_ui_style</sys_db_object>
+        <sys_id>c1b1ca62ba8d4e3593672ed2541dc6d9</sys_id>
+        <sys_metadata>bc934788470b1110b16fa368436d4373</sys_metadata>
+        <sys_name>x_898924_v2_cad_ex_items</sys_name>
+        <sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package>
+        <sys_parent display_value="">6963ba0847c71110b16fa368436d43b2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope>
+        <sys_scope_delete display_value="">57a072c0272b492abf59df88edce5c44</sys_scope_delete>
+        <sys_update_name>sys_ui_style_bc934788470b1110b16fa368436d4373</sys_update_name>
+        <sys_update_version display_value="sys_ui_style_bc934788470b1110b16fa368436d4373">399807cc470b1110b16fa368436d43ef</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
