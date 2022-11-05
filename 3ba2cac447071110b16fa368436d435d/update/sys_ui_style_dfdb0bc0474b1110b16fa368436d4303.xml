@@ -3,7 +3,7 @@
         <alt/>
         <element>description</element>
         <name>x_898924_v2_cad_ex_items</name>
-        <style>border: 1px solid #FF0000;</style>
+        <style>/*border: 1px solid #FF0000;*/</style>
         <sys_class_name>sys_ui_style</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-04 09:54:15</sys_created_on>
