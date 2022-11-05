@@ -3,5 +3,7 @@
         <element label="Description" max_length="40" name="description" type="string"/>
         <element label="Item" max_length="40" name="item" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Super public field" max_length="40" name="super_public_field" type="string"/>
+        <element label="Super Secret Field" max_length="40" name="super_secret_field" type="string"/>
     </element>
 </database>

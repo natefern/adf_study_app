@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+  "table" : "task",
+  "sysId" : "4861ae64f90251108c8bd16244dfe72a"
+}</macroponent_config>
+        <screen display_value="round practice scheduler default">e5946cac47cf5110b16fa368436d4305</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-05 10:59:24</sys_created_on>
+        <sys_id>6d946cac47cf5110b16fa368436d430c</sys_id>
+        <sys_name/>
+        <sys_package display_value="v2 cad exam" source="x_898924_v2_cad_ex">3ba2cac447071110b16fa368436d435d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="v2 cad exam">3ba2cac447071110b16fa368436d435d</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_6d946cac47cf5110b16fa368436d430c</sys_update_name>
+    </sys_uib_screen_test_values>
+</record_update>

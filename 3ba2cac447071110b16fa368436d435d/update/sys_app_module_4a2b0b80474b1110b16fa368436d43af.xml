@@ -17,7 +17,7 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_898924_v2_cad_ex.items_user</roles>
+        <roles>x_898924_v2_cad_ex.items_user,x_898924_v2_cad_ex.items restricted user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-04 09:50:11</sys_created_on>
